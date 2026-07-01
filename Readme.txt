@@ -11,3 +11,7 @@ git commit -m "commit message"  -here you tell what you changed in the code (sum
 git push origin main            -uploading changes into the cloud
 
 How to get the latest code to our local computer
+
+
+git fetch                       - git cloude changes into the local file
+git pull                        -changes into the local file
